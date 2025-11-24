@@ -14,10 +14,6 @@ A Netflix-like web application for tracking and managing your personal movie and
 - ✅ **Progress Visualization** - Visual progress bars for TV shows
 - ✅ **Time Estimation** - Calculate estimated time to complete TV shows
 
-### AI Features (Optional)
-- 🤖 **Smart Recommendations** - Get personalized recommendations based on your watch history and ratings
-- ✍️ **AI Review Generation** - Generate reviews from your personal notes using OpenAI
-- ⏱️ **Time Estimation** - Automatically estimate time to complete shows based on watching habits
 
 ### UI/UX Features
 - 🎨 **Netflix-like Interface** - Beautiful, modern UI with smooth animations
